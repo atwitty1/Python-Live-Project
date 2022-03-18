@@ -80,8 +80,8 @@ Using Css and Bootstrap I was able to style the objects to where and how I wante
 
 
 ## Additional Skills Aquired
-*As this was the first time we were asked to create something with little direction, I had to rely on researching a lot of the goals that I wanted for my page.
-*Working with SqLite3 DB
-*Agile and Scrum
-*Version ControL and Branch Management
-*Virtual Environments
+As this was the first time we were asked to create something with little direction, I had to rely on researching a lot of the goals that I wanted for my page.
+* Working with SqLite3 DB
+* Agile and Scrum
+* Version ControL and Branch Management
+* Virtual Environments
